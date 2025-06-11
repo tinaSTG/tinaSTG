@@ -21,30 +21,37 @@ With a background in finance, I used to live in the world of balance sheets and 
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [suartinasitanggang](https://www.linkedin.com/in/suartinasitanggang)  
-- 📧 Email: suartina.sitanggang@gmail.com  
-- 🧑‍💻 GitHub: [@tinaSTG](https://github.com/tinaSTG)
+- 💼 [LinkedIn](https://www.linkedin.com/in/suartinasitanggang)  
+- 📧 suartina.sitanggang@gmail.com  
+- 🧑‍💻 [@tinaSTG](https://github.com/tinaSTG)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Tools
 
-**Languages & Tools:**  
-`Python` `SQL` `Excel` `Tableau` `Kibana` `Scikit-learn` `TensorFlow` `Pandas` `Numpy` `Docker` `Apache Airflow` `Streamlit` `HuggingFace`
-
-**Machine Learning & AI:**  
-Supervised & Unsupervised Learning, Clustering, Deep Learning, Natural Language Processing (NLP), Computer Vision, Time Series Analysis, A/B Testing, Feature Engineering
-
-**Frameworks & Technologies:**  
-ElasticSearch, PostgreSQL, Neural Networks, Model Deployment
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats
 
-**Hacktiv8 Data Science Bootcamp**  
-🗓️ Nov 2024 – May 2025 | 📍 Jakarta, Indonesia  
-*Focused on Machine Learning, NLP, CNN, Deep Learning, SQL, Statistical Analysis, and A/B Testing*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tinaSTG&show_icons=true&theme=default&hide_border=true" alt="Tina's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinaSTG&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -54,6 +61,4 @@ I bridge the gap between business and data. With a strong foundation in finance 
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to reach out—I’m always open to new ideas, collaborations, and meaningful conversations about data.*
-
-
+✨ *Thanks for visiting my profile! Let’s connect and collaborate on something meaningful.*
